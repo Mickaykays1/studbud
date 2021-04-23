@@ -1,0 +1,24 @@
+{
+  "name": "node-v",
+  "version": "1.0.0",
+  "description": "A Useful Study tool for students",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mickaykays1/studbud.git"
+  },
+  "keywords": [
+    "Study",
+    "Online",
+    "Help"
+  ],
+  "author": "Michaela Franz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mickaykays1/studbud/issues"
+  },
+  "homepage": "https://github.com/Mickaykays1/studbud#readme"
+}
